@@ -1,0 +1,24 @@
+{
+    "firstname": "Иван",
+    "lastname": "Иванов",
+    "isAlive": true,
+    "age": 32,
+    "address": {
+        "street Address": "Нейбута 32",
+        "city": "Владивосток",
+        "state": "",
+        "postal code": ""
+    },
+    "phone Numbers": [
+        {
+            "type": "mob",
+            "number": " 123-333-4455 "
+        },
+        {
+            "type": "office",
+            "number": " 123 111-4567 "
+        }
+    ],
+    "children": [],
+    "spouse": null
+}
